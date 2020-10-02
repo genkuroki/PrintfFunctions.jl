@@ -2,6 +2,8 @@ module PrintfFunctions
 
 using Printf
 
+export printf, sprintf
+
 # The following code is copied from 
 #
 #     https://github.com/JuliaIO/Formatting.jl/pull/15/files
